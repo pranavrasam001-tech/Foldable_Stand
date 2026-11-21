@@ -1,6 +1,6 @@
-Item Number,Part Name,Part Number,Revision,State,Quantity,Material
-1,BackSupport,2026-11-21-19-07-08-221,,Working,1,Steel
-2,Base,2026-11-21-19-07-08-152,,Working,1,Steel
-3,AngleSupport,2026-11-21-19-07-08-273,,Working,1,Steel
-4,StrutPin,2026-11-21-19-07-08-382,,Working,1,Steel
-5,HingePin,2026-11-21-19-07-08-337,,Working,1,Steel
+Item Number,Part Name,Part Number,Revision,State,Quantity,Price (USD)
+1,BackSupport,2026-11-21-19-07-08-221,,Working,1,0.383
+2,Base,2026-11-21-19-07-08-152,,Working,1,0.325
+3,AngleSupport,2026-11-21-19-07-08-273,,Working,1,0.048
+4,StrutPin,2026-11-21-19-07-08-382,,Working,1,0.005
+5,HingePin,2026-11-21-19-07-08-337,,Working,1,0.007
