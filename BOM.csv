@@ -1,12 +1,6 @@
-﻿Part Name,Foldable_Mobile_Stand
-Working BOM,"as of November 21, 2026 at 3:06:01 PM UTC"
-Exported by,manyaa0507@gmail.com
-Time of Export,"3:05 PM Nov 21, 2026"
-
-,Part Name,Revision/Version,Description,Part Number,Item Number,Lifecycle,Revision,State,Quantity,Material,Change Order
-,Foldable_Mobile_Stand,,,2026-11-21-18-16-52-364,,,,Working,1,,
-1,BackSupport,,,2026-11-21-19-07-08-221,,,,Working,1,Steel,
-2,Base,,,2026-11-21-19-07-08-152,,,,Working,1,Steel,
-3,AngleSupport,,,2026-11-21-19-07-08-273,,,,Working,1,Steel,
-4,StrutPin,,,2026-11-21-19-07-08-382,,,,Working,1,Steel,
-5,HingePin,,,2026-11-21-19-07-08-337,,,,Working,1,Steel,
+Item Number,Part Name,Part Number,Revision,State,Quantity,Material
+1,BackSupport,2026-11-21-19-07-08-221,,Working,1,Steel
+2,Base,2026-11-21-19-07-08-152,,Working,1,Steel
+3,AngleSupport,2026-11-21-19-07-08-273,,Working,1,Steel
+4,StrutPin,2026-11-21-19-07-08-382,,Working,1,Steel
+5,HingePin,2026-11-21-19-07-08-337,,Working,1,Steel
