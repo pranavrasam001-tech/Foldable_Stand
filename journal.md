@@ -1,4 +1,4 @@
-# date:19/11
+# date:20/11
 # time spent:0.8hr
 ## description:
 i started this project by creating the base plate for my foldable mobile stand in fusion 360. first, i made a rectangular shape with rounded corners and gave it the required thickness. then i added two small blocks at the back for the hinge connection. i also made holes for the pins and added four small spaces at the bottom for rubber pads. i kept the design simple and neat so that the stand would have a good base and stay stable.
@@ -9,7 +9,7 @@ i started this project by creating the base plate for my foldable mobile stand i
 
 ------
 
-# date:19/11
+# date:20/11
 # time spent:1.3hr
 ## description:
 so now i worked on the back support of the mobile stand. i created a separate plate with rounded corners and added a small lip at the bottom to hold the phone in place. i also made an opening for the charging cable and added hinge sections to connect it with the base. i adjusted the shape and position to make sure the phone could rest properly without slipping.
@@ -21,7 +21,7 @@ so now i worked on the back support of the mobile stand. i created a separate pl
 
 ------
 
-# date:19/11
+# date:20/11
 # time spent:0.9hrs
 ## description:
 here i have done on connecting the base and the back support. i adjusted the hinge parts and made sure the holes were in the correct position for the pins. i also checked the gap between both parts so they would not overlap while moving. after making a few changes, the base and back support were ready for the folding mechanism.
@@ -33,7 +33,7 @@ here i have done on connecting the base and the back support. i adjusted the hin
 
 ------
 
-# date:20/11
+# date:21/11
 # time spent:1.3hr
 ## description:
 now main is i designed the angle support and the connecting pins for the stand. i made two side arms and joined them with a bottom section to form the support structure. then i added holes for the pins so the parts could connect and move properly. i also added small notches to help the stand stay in position. i checked the size and alignment to make sure all the parts fit together.
@@ -43,7 +43,7 @@ now main is i designed the angle support and the connecting pins for the stand. 
 
 ------
 
-# date:20/11
+# date:21/11
 # time spent:0.95hr
 ## description:
 i started putting all the parts together to form the mobile stand. i connected the base, back support and angle support using the hinge pins. i adjusted the positions of the parts and checked how they moved when opening and folding the stand. i also checked for overlapping parts and made small changes to improve the alignment. this helped me bring all the separate parts together into one model.
@@ -54,7 +54,7 @@ i started putting all the parts together to form the mobile stand. i connected t
 
 ------
 
-# date:20/11
+# date:21/11
 # time spent:0.75hr
 ## description:
 in this final phase, i reviewed the complete mobile stand model and made the final adjustments. i applied different colours to the base, back support and other parts to make the design look neat. i also checked the overall shape, alignment and folding arrangement. finally, i prepared the final model views and saved the project files and screenshots for documentation. this completed the cad design of my foldable mobile stand.
