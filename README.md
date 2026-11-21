@@ -1,6 +1,7 @@
 # Foldable mobile stand
 
 a simple and portable mobile stand designed using **autodesk fusion 360**. the stand is made with separate parts and a folding mechanism, making it easy to open, close and carry.
+Printables:- https://www.printables.com/model/1924449-foldable_mobile_stand
 
 ## About the project
 
